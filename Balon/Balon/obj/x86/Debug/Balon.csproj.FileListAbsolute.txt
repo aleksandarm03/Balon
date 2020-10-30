@@ -1,0 +1,14 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\Balon\bin\Debug\Balon.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Balon\bin\Debug\Balon.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\Balon\obj\x86\Debug\Balon.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Balon\obj\x86\Debug\Balon.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Balon\obj\x86\Debug\Balon.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Balon\obj\x86\Debug\Balon.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Balon\obj\x86\Debug\Balon.pdb
+C:\Users\aleks\OneDrive\Radna površina\Balon\Balon\obj\x86\Debug\Balon.exe
+C:\Users\aleks\OneDrive\Radna površina\Balon\Balon\obj\x86\Debug\Balon.pdb
+C:\Users\aleks\OneDrive\Radna površina\Balon\Balon\bin\Debug\Balon.exe
+C:\Users\aleks\OneDrive\Radna površina\Balon\Balon\bin\Debug\Balon.pdb
+C:\Users\aleks\OneDrive\Radna površina\Balon\Balon\obj\x86\Debug\Balon.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Balon\Balon\obj\x86\Debug\Balon.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Radna površina\Balon\Balon\obj\x86\Debug\Balon.csproj.GenerateResource.Cache
